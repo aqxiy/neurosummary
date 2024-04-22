@@ -45,3 +45,13 @@ Superscalar ARM
 SO THIS WAS MY FIRST INDUCTION PROOF
 
 https://github.com/aqxiy/paramrem
+
+Life is about optimizing; finding the minimal path, pointing to targets; this routes thoughts. The routes we take define us.
+
+tbt Tribes Ascend CTF
+
+https://github.com/aqxiy/2-3d
+
+https://github.com/aqxiy/ip25ys
+
+https://github.com/aqxiy/peptidecoffee
