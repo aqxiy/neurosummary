@@ -25,11 +25,14 @@ Appreciate == make rendition of
 
 Renovate == undirected improvement without converted effort
 
+{
 ladeeda
 NP-complete problem - if generally better to make or not make typo in Elevate synonyms minigame 
 
 Leans better no typo
-
+}
+=|=
+{
 ok theory time
 
 BECAUSE TREESORT.PY works differently on ARM and X86 fundamentally and this interfaces with electronics on some low level
@@ -43,6 +46,7 @@ And for some reason ARM is for wireless
 Superscalar ARM
 
 SO THIS WAS MY FIRST INDUCTION PROOF
+}
 
 https://github.com/aqxiy/paramrem
 
