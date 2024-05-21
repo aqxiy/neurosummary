@@ -25,6 +25,10 @@ Appreciate == make rendition of
 
 Renovate == undirected improvement without converted effort
 
+Exception == in avoidance of
+
+Avoidance == in exception of
+
 {
 ladeeda
 NP-complete problem - if generally better to make or not make typo in Elevate synonyms minigame 
